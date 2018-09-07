@@ -1,0 +1,8 @@
+#packopt hide 1
+
+arg = dir_cmdline
+split arg, ",", x, y
+
+mouse int(x), int(y)
+
+end
