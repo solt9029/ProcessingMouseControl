@@ -1,4 +1,4 @@
-final String PATH = "C:\\Users\\Shiode\\Desktop\\ProcessingExecutionCommandTutorial\\mouse.exe";
+final String PATH = "C:\\Users\\Shiode\\Desktop\\ProcessingMouseControl\\mouse.exe";
 
 void setup() {
   mouse(100, 100);
